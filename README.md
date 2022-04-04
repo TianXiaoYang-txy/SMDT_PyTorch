@@ -26,37 +26,41 @@ The goal of cross-view geo-localization is to determine the location of a given 
 
 ### Semantic Segmentation
 <center>
-<img src='./imgs/fig1.jpg' width=1200>
+<img src='./imgs/fig1.jpg' width=1000>
 </center>
 
 ### Mixed Perspective-Polar Mapping
-
+<center>
 <img src='./imgs/fig2.jpg' width=400>
+</center>
 
 ### Dual Conditional Generative Adversarial Nets
-
+<center>
 <img src='./imgs/fig3.jpg' width=400>
+</center>
 
 Please refer to the [Image_Alignment](https://github.com/TianXiaoYang-UESTC/SMDT-PyTorch/tree/main/Image_Alignment) folder for more details.
 
 ## Transformer
 
 ### Transformer for Cross-View Geo-localization
-
+<center>
 <img src='./imgs/fig4.jpg' width=400>
+</center>
 
 Please refer to the [Transformer](https://github.com/TianXiaoYang-UESTC/SMDT-PyTorch/tree/main/Transformer) folder for more details.
-
 
 ## Results
 
 ### Results on CVUSA
-
+<center>
 <img src='./imgs/tab1.jpg' width=400>
+</center>
 
 ### Results on CVACT
-
+<center>
 <img src='./imgs/tab2.jpg' width=400>
+</center>
 
 ## Acknowledgment
 This source code of Image Alignment is inspired by [PanoGAN](https://github.com/sswuai/PanoGAN), the source code of Transformer is inspired by [Polar-EgoTR](https://github.com/yanghongji2007/cross_view_localization_L2LTR)
