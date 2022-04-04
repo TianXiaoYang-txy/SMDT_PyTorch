@@ -1,8 +1,10 @@
 # SMDT-PyTorch
 SMDT: Cross-View Geo-Localization with Image Alignment and Transformer.
 
+### Pytorch Version
 The repository offers the main implementation of our paper in PyTorch.
 
+### MindSpore Version
 The MindSpore version is available at [https://github.com/TianXiaoYang-UESTC/SMDT-MindSpore](https://github.com/TianXiaoYang-UESTC/SMDT-MindSpore)
 
 ## Contents
