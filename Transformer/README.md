@@ -1,9 +1,24 @@
 # Transformer
 
+## Contents
+  - [Dataset](#Dataset)
+  - [Train](#Train)
+  - [Test](#Test)
+
 ### Dataset
 
 * CVUSA：[https://github.com/viibridges/crossnet](https://github.com/viibridges/crossnet)
 * CVACT：[https://github.com/Liumouliu/OriCNN](https://github.com/Liumouliu/OriCNN)
+
+### Models
+
+Pretrained model Download (Google's Official Checkpoint)
+
+* R50+ViT-B_16 [pretrained model](https://console.cloud.google.com/storage/browser/vit_models/imagenet21k;tab=objects?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false)
+
+Our trained models for CVUSA and CVACT will be available soon
+
+* [Trained models]()
 
 ### Train
 * CVUSA
