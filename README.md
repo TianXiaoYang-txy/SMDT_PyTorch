@@ -25,34 +25,23 @@ The goal of cross-view geo-localization is to determine the location of a given 
 
 ### Mixed Perspective-Polar Mapping
 
-<center>
-<img src='./imgs/fig2.jpg' width=1200>
-</center>
+<img src='./imgs/fig2.jpg' width=600>
 
 ### Dual Conditional Generative Adversarial Nets
 
-<center>
 <img src='./imgs/fig3.jpg' width=600>
-</center>
 
 ### Transformer for Cross-View Geo-localization
 
-<center>
 <img src='./imgs/fig4.jpg' width=600>
-</center>
 
 ### Results on CVUSA
 
-<center>
 <img src='./imgs/tab1.jpg' width=600>
-</center>
 
 ### Results on CVACT
 
-<center>
 <img src='./imgs/tab2.jpg' width=600>
-</center>
-
 
 ## Image Alignment
 Please refer to the [Image_Alignment](https://github.com/TianXiaoYang-UESTC/SMDT-PyTorch/tree/main/Image_Alignment) folder for more details.
