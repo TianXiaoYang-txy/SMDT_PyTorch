@@ -32,25 +32,25 @@ The goal of cross-view geo-localization is to determine the location of a given 
 ### Dual Conditional Generative Adversarial Nets
 
 <center>
-<img src='./imgs/fig3.jpg' width=1200>
+<img src='./imgs/fig3.jpg' width=600>
 </center>
 
 ### Transformer for Cross-View Geo-localization
 
 <center>
-<img src='./imgs/fig4.jpg' width=1200>
+<img src='./imgs/fig4.jpg' width=600>
 </center>
 
 ### Results on CVUSA
 
 <center>
-<img src='./imgs/tab1.jpg' width=1200>
+<img src='./imgs/tab1.jpg' width=600>
 </center>
 
 ### Results on CVACT
 
 <center>
-<img src='./imgs/tab2.jpg' width=1200>
+<img src='./imgs/tab2.jpg' width=600>
 </center>
 
 
