@@ -12,6 +12,7 @@ The MindSpore version is available at [https://github.com/TianXiaoYang-UESTC/SMD
   - [Dataset](#Dataset)
   - [Image Alignment](#Image_Alignmentn)
   - [Transformer](#Transformer)
+  - [Results](#Results)
   - [Acknowledgment](#Acknowledgment)
 
 ## Abstract
