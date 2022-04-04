@@ -25,40 +25,40 @@ The goal of cross-view geo-localization is to determine the location of a given 
 
 ## Image Alignment
 
-### Semantic Segmentation
+Please refer to the [Image_Alignment](https://github.com/TianXiaoYang-UESTC/SMDT-PyTorch/tree/main/Image_Alignment) folder for more details.
+
+#### Semantic Segmentation
 <center>
 <img src='./imgs/fig1.jpg' width=1000>
 </center>
 
-### Mixed Perspective-Polar Mapping
+#### Mixed Perspective-Polar Mapping
 <center>
 <img src='./imgs/fig2.jpg' width=400>
 </center>
 
-### Dual Conditional Generative Adversarial Nets
+#### Dual Conditional Generative Adversarial Nets
 <center>
 <img src='./imgs/fig3.jpg' width=400>
 </center>
 
-Please refer to the [Image_Alignment](https://github.com/TianXiaoYang-UESTC/SMDT-PyTorch/tree/main/Image_Alignment) folder for more details.
-
 ## Transformer
 
-### Transformer for Cross-View Geo-localization
+Please refer to the [Transformer](https://github.com/TianXiaoYang-UESTC/SMDT-PyTorch/tree/main/Transformer) folder for more details.
+
+#### Transformer for Cross-View Geo-localization
 <center>
 <img src='./imgs/fig4.jpg' width=400>
 </center>
 
-Please refer to the [Transformer](https://github.com/TianXiaoYang-UESTC/SMDT-PyTorch/tree/main/Transformer) folder for more details.
-
 ## Results
 
-### Results on CVUSA
+#### Results on CVUSA
 <center>
 <img src='./imgs/tab1.jpg' width=400>
 </center>
 
-### Results on CVACT
+#### Results on CVACT
 <center>
 <img src='./imgs/tab2.jpg' width=400>
 </center>
