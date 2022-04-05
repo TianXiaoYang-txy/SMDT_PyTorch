@@ -25,7 +25,7 @@ pip install -r requirements.txt (for pip users)
 ## Semantic Segmentation
 After unzipping the dataset, we adopt [RefineNet](https://github.com/guosheng/refinenet) trained on CityScapes dataset for generating semantic maps and use them as training data in our experiments.
 
-Please download the dataset CVUSA after semantic segmentation from google drive: [Training sample set for ablation study](https://drive.google.com/file/d/1KGAEbWL3q9Fi5axzaf_CROp92KZ_PVjS/view?usp=sharing), [Test sample set](https://drive.google.com/file/d/1_BZ1D5Jw0CFjLlPXRURhRRWJLms_M3Ho/view?usp=sharing).
+Please download the dataset CVUSA after semantic segmentation from google drive: [Training dataset](https://drive.google.com/file/d/1KGAEbWL3q9Fi5axzaf_CROp92KZ_PVjS/view?usp=sharing), [Test dataset](https://drive.google.com/file/d/1_BZ1D5Jw0CFjLlPXRURhRRWJLms_M3Ho/view?usp=sharing).
 
 ## Mixed Perspective-Polar Mapping
 
