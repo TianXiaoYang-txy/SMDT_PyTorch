@@ -1,7 +1,7 @@
 # Image Alignment
 
 ## Contents
-  - [Dataset](#Dataset)
+  - [Datasets](#Datasets)
   - [Dependencies](#Dependencies)
   - [Semantic Segmentation](#Semantic-Segmentation)
   - [Mixed Perspective-Polar Mapping](#Mixed-Perspective-Polar-Mapping)
@@ -9,7 +9,7 @@
   - [Evaluation](#Evaluation)
   - [Acknowledgments](#Acknowledgments)
 
-## Dataset
+## Datasets
 
 * CVUSA：[https://github.com/viibridges/crossnet](https://github.com/viibridges/crossnet)
 * CVACT：[https://github.com/Liumouliu/OriCNN](https://github.com/Liumouliu/OriCNN)
