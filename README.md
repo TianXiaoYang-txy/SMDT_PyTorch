@@ -5,7 +5,7 @@
 The repository offers the main implementation of our paper in PyTorch.
 
 ### MindSpore Version
-The MindSpore version is available at [https://github.com/TianXiaoYang-UESTC/SMDT-MindSpore](https://github.com/TianXiaoYang-UESTC/SMDT-MindSpore)
+The MindSpore version is available at [https://github.com/TianXiaoYang-txy/SMDT_MindSpore](https://github.com/TianXiaoYang-txy/SMDT_MindSpore)
 
 ## Contents
   - [Abstract](#Abstract)
@@ -25,7 +25,7 @@ The goal of cross-view geo-localization is to determine the location of a given 
 
 ## Image Alignment
 
-Please refer to the [Image_Alignment](https://github.com/TianXiaoYang-UESTC/SMDT-PyTorch/tree/main/Image_Alignment) folder for more details.
+Please refer to the [Image_Alignment](https://github.com/TianXiaoYang-txy/SMDT_PyTorch/tree/main/Image_Alignment) folder for more details.
 
 #### Semantic Segmentation
 <center>
@@ -44,7 +44,7 @@ Please refer to the [Image_Alignment](https://github.com/TianXiaoYang-UESTC/SMDT
 
 ## Transformer
 
-Please refer to the [Transformer](https://github.com/TianXiaoYang-UESTC/SMDT-PyTorch/tree/main/Transformer) folder for more details.
+Please refer to the [Transformer](https://github.com/TianXiaoYang-txy/SMDT_PyTorch/tree/main/Transformer) folder for more details.
 
 #### Transformer for Cross-View Geo-localization
 <center>
@@ -64,4 +64,4 @@ Please refer to the [Transformer](https://github.com/TianXiaoYang-UESTC/SMDT-PyT
 </center>
 
 ## Acknowledgments
-This source code of Image Alignment is inspired by [PanoGAN](https://github.com/sswuai/PanoGAN), the source code of Transformer is inspired by [Polar-EgoTR](https://github.com/yanghongji2007/cross_view_localization_L2LTR)
+This source code of Image Alignment is inspired by [PanoGAN](https://github.com/sswuai/PanoGAN), the source code of Transformer is inspired by [Polar-EgoTR](https://github.com/yanghongji2007/cross_view_localization_L2LTR)# SMDT_PyTorch
